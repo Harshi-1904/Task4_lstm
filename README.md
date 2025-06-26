@@ -42,4 +42,4 @@ For example, if trained on poetry, it can generate poetry-like sentences.
 
 Output
 ---
-![Image](https://github.com/user-attachments/assets/b1c45c32-a3e8-4e92-acaf-dbc55449c5fa)
+![Image](https://github.com/user-attachments/assets/537bc8e2-7c0e-45a8-935c-68fa47f2a647)
